@@ -1,0 +1,13 @@
+{
+    "jsonPath": "/Users/lemon/Library/Application Support/Code/User/snippets/python.json",
+    "filePath": [
+        "snippet/pwn.py",
+        "snippet/menu.py",
+        "snippet/format.py"
+    ],
+    "snippetName": [
+        "pwn", 
+        "menu",
+        "64format"
+    ]
+}
